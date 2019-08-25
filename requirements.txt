@@ -1,5 +1,5 @@
 setuptools==28.8.0
 flask_restplus==0.9.2
 Flask==0.12.2
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 Flask_Bcrypt==0.7.1
